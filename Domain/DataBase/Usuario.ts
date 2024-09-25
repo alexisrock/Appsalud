@@ -1,8 +1,9 @@
 
 export class Usuario {
     nombre!: string;   
-    apellidos!: string;
-    documento!: number;
+    apellidos!: string;    
     celular!: string;
-    tipoUsuario!: number;   
+    correo!: number;
+    genero!: string; 
+    contraseña!:string;  
 }
